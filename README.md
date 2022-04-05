@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SunnEaterr
 - 👀 I’m interested in ... video games, the arts
-- 🌱 I’m currently learning ... computer science, art, and music 
+- 🌱 I’m currently learning ... computer science, art, music, and language learning  
 - 💞️ I’m looking to collaborate on ... developing programs and video games
 - 📫 How to reach me ...
 
